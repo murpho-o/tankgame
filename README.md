@@ -4,7 +4,7 @@
 ## 游戏功能
 #### 游戏预览
 
-<img width="1000" src="assets/img/interface.gif"/>
+<img src="assets/img/interface.gif"/>
 
 #### 游戏控制
 * 可以开始、暂停、继续、退出游戏、继续上局游戏。
